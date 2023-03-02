@@ -1,0 +1,12 @@
+{
+	"url": "https://www.nhtsa.gov/file-downloads?p=nhtsa/downloads/FARS/",
+	"start_year": 2000,
+	"national": false,
+	"puerto_rico": false,
+	"auxiliary": false,
+	"data_path": "./data/",
+	"write_all": true,
+	"selected_tables": ["vehicle.csv"],
+	"delete_existing": true,
+	"start_year_writing": 2000
+}
